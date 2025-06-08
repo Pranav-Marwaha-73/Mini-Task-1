@@ -1,3 +1,5 @@
+Diagram are not visble here so to pls visit https://docs.google.com/document/d/1ym9lw3DDTq1iJSv-nH0iTE6Z9y6JWZg4WbY285sDk3w/edit?tab=t.0
+
 <h1>Theoretical Part:</h1>
 Blockchain Basics<br>
 
