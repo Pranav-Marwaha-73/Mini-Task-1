@@ -2,10 +2,10 @@
 Blockchain Basics<br>
 
 
-Define blockchain in your own words (100–150 words).<br>
+<h2>Define blockchain in your own words (100–150 words).</h2><br>
 Blockchain is a decentralized digital ledger that records data in a secure and tamper-proof way across a network of computers. Instead of being stored in a single location, the data is distributed across many nodes, making it highly secure and transparent. Each record, known as a "block," contains a list of transactions and is linked to the previous block through cryptographic hashes, forming a chain—hence the name "blockchain." Once data is recorded on a blockchain, it is nearly impossible to alter without changing all subsequent blocks, which ensures integrity and trust. It operates without a central authority and uses consensus mechanisms like Proof of Work or Proof of Stake to validate new entries. This makes blockchain ideal for applications that require transparency, security, and decentralization.<br>
 
-List 2 real-life use cases:<br>
+<h2>List 2 real-life use cases:</h2><br>
 1.	Supply Chain Management: Blockchain can track the origin and journey of products (like food or medicine) from manufacturer to consumer, improving transparency and reducing fraud. Like Walmart uses to track its packages<br>
 2.	Digital Identity: Blockchain can provide secure, tamper-proof digital IDs that individuals control, helping to prevent identity theft and giving people better access to services.<br>
 
